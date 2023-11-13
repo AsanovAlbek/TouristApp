@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TouristApp</string>
+    <string name="error_image_content_description">Error Image</string>
+    <string name="show_all_button_text">Показать все</string>
+    <string name="empty_text">Здесь пока пусто</string>
+    <string name="home_navigation_to_detail">detail%s</string>
+    <string name="connection_error">Подключение к интернету отсутствует</string>
+    <string name="unknown_error">Что то пошло не так...</string>
+    <string name="unsuccessful_error">Идут технические работы</string>
+    <string name="main_top_app_bar_title">Главная</string>
+</resources>
